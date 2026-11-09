@@ -6,9 +6,10 @@ read_if: "You want to know what is done, in flight, blocked and next"
 
 ## Done
 
-- Add a footer to the hello page
-- Check the page and README section
-- Add index.html and README section
+- Add the line Bye to shop/bye.txt
+- Write the kite size guide in shop/
+- Write the kite repair notes in shop/
+- Write the wind checker in shop/
 
 ## In flight
 
@@ -23,6 +24,14 @@ read_if: "You want to know what is done, in flight, blocked and next"
 - nothing
 
 ## Sessions
+
+### 2026-11-09 session 01a1bea3-f6d4-77ee-8983-59e0d207d241
+
+- Done: Add the line Bye to shop/bye.txt
+- In flight: none
+- Blocked: none
+- Next: none
+- Note: stop reason completed; spent CHF 0.02
 
 ### 2026-11-02 session 01a19c97-334f-7650-bf3e-98fcf3e9fbf1
 
