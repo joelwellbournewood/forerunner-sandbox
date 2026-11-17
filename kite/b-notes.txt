@@ -1,0 +1,7 @@
+# Add write kite/b-notes.txt with one line
+
+write kite/b-notes.txt with one line, as the person asked when they changed the plan.
+
+## Covers
+
+- Write kite/b-notes.txt with one line is done as asked
