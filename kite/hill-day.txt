@@ -1,0 +1,3 @@
+Hill trip day details are in kite/hill.txt.
+
+<!-- edited on GitHub -->
